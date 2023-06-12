@@ -2,7 +2,7 @@
 
 # semaphore
 
-A simple ES6 semaphore implementation.
+A simple ES6 semaphore implementation for managing concurrent access to a resource.
 
 ## Installation
 
