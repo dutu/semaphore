@@ -1,4 +1,4 @@
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/dutu/semaphore/Run%20Tests)
+![GitHub Workflow Status]( https://img.shields.io/github/actions/workflow/status/dutu/semaphore/main.yml?branch=main)
 
 # semaphore
 
