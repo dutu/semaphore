@@ -16,9 +16,9 @@
   "author": "dutu",
   "license": "ISC",
   "packageManager": "yarn@3.6.0",
-  "dependencies": {},
   "devDependencies": {
     "chai": "^4.3.7",
+    "jsdoc": "^4.0.2",
     "mocha": "^10.2.0"
   }
 }
