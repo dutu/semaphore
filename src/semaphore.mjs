@@ -48,3 +48,5 @@ class Semaphore {
     this.#green = false
   }
 }
+
+export default Semaphore
