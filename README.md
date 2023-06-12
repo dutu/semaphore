@@ -28,3 +28,6 @@ setTimeout(() => {
   sem.green()
 }, 5000)
 ```
+
+
+See [the API documentation](https://dutu.github.io/semaphore/) for more details on how to use it.

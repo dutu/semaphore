@@ -1,6 +1,6 @@
 {
   "source": {
-    "include": ["src/Semaphore.mjs"],
+    "include": ["./src/"],
     "includePattern": ".+\\.m?js(doc|x)?$",
     "excludePattern": "(^|\\/|\\\\)_"
   },
@@ -16,6 +16,9 @@
   "plugins": [],
   "templates": {
     "cleverLinks": false,
-    "monospaceLinks": false
+    "monospaceLinks": false,
+    "default": {
+      "outputSourceFiles": true
+    }
   }
 }

@@ -2,7 +2,7 @@
   "name": "@dutu/semaphore",
   "version": "1.0.0",
   "description": "A simple ES6 semaphore implementation",
-  "main": "./src/semaphore.mjs",
+  "main": "src/semaphore.mjs",
   "scripts": {
     "test": "mocha"
   },
